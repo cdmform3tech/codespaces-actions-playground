@@ -8,4 +8,4 @@ jobs:
     steps:
       - name : Hello cal
         run : |
-          echo "calogero Sugnu" Ciao
+          echo "calogero Sugnu" Ciao da lamerica
